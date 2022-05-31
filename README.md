@@ -5,3 +5,4 @@
 - index.html ve readme dosyaları eklendi
 - HTML Ödevi Tamamlandı.
 ------
+![Proje Görüntüsü](projeninekrangoruntusu.PNG)
